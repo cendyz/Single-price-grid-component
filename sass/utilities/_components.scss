@@ -1,0 +1,9 @@
+.padding {
+    padding: 1.5em;
+}
+
+@media (min-width: 992px) {
+    .padding {
+        padding: 2.3em;
+    }
+}
